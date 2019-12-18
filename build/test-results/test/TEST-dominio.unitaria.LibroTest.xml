@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dominio.unitaria.LibroTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-17T00:22:32" hostname="DESKTOP-631BTA7" time="0.0">
+  <properties/>
+  <testcase name="crearLibroTest" classname="dominio.unitaria.LibroTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
